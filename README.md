@@ -15,9 +15,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
   
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="postgreSQL" height="30" width="40" src="![image](https://user-images.githubusercontent.com/104167071/234012989-57f398b7-d711-490f-b583-eacb76da6801.png)
-">
+  
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
     
@@ -25,6 +23,6 @@
   <br>
   <a href="https://www.linkedin.com/in/sara-thaise-garcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/sara-t-g-silva/sara-t-g-silva/blob/output/github-contribution-grid-snake.svg)
+ <!–![Snake animation](https://github.com/sara-t-g-silva/sara-t-g-silva/blob/output/github-contribution-grid-snake.svg)->
  
 </div>

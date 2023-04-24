@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Code">
 
 <p align="left"> 
- ### Hi! 👋 I'm Sara!
+<H1> Hi! 👋 I'm Sara!</h1>
 
-**Welcome to my Github profile.**
+ Welcome to my Github profile.
 
 👩‍💻**Student systems analysis and development | Java | SQL | PostgreSQL |** 
 </p>

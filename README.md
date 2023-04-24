@@ -9,16 +9,9 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java | SQL | </strong>
+  💼 tools: <strong> Intellij | Eclipse | Figma | Insomnia </strong>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong> Intellij | Eclipse | Figma | Insomnia </strong>
-</p>
-
-<p align="left">
-  💌 Onde me encontrar: ⤵️
-</p>
 
 <p align="left">
   <a href="#" alt="Gmail">

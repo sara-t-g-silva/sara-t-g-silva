@@ -5,7 +5,8 @@
 
  Welcome to my Github profile.
 
-👩‍💻**Student systems analysis and development | Java | SQL | PostgreSQL |** 
+👩‍💻**Student systems analysis and development 
+ | Java | SQL | PostgreSQL |** 
 </p>
 
 <p align="left">

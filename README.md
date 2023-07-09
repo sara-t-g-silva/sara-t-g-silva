@@ -5,8 +5,8 @@
 
  Welcome to my Github profile.
 
-👩‍💻**Student systems analysis and development 
- | Java | SQL | PostgreSQL |** 
+**Desenvolvedor back-end | Java | Spring Boot | Javascript | Node.js | SQL | Git | GitHub**  ![image](https://github.com/sara-t-g-silva/sara-t-g-silva/assets/104167071/7e8633a6-c854-45bd-a8d3-58a80c74fc12)
+
 </p>
 
 <p align="left">

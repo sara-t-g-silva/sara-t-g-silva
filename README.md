@@ -2,11 +2,12 @@
 
 <p align="left"> 
 <H1> Hi! 👋 I'm Sara!</h1>
-
+<p> 
+ 
  Welcome to my Github profile.
 
-**Desenvolvedor back-end | Java | Spring Boot | Javascript | Node.js | SQL | Git | GitHub**  🚀
-Fala sobre: #java, #nodejs, #javascript, #springboot e #backenddeveloper
+**Desenvolvedor back-end | Java | Spring Boot | Javascript | Node.js | SQL | Git | GitHub**  
+ 
 </p>
 
 <p align="left">

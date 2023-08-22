@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 tools: <strong> Intellij | Eclipse | Figma | Insomnia </strong>
+  💼 tools: <strong> Intellij | Eclipse | Visual Studio Code | Figma | Insomnia </strong>
 </p>
 
 

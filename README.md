@@ -10,15 +10,15 @@
  
 </p>
 
+<p align="left">
+  💼 tools: <strong> Intellij | Eclipse | Visual Studio Code | Postman | Insomnia </strong>
+</p>
+
  ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/sara-t-g-silva">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-t-g-silva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<p align="left">
-  💼 tools: <strong> Intellij | Eclipse | Visual Studio Code | Postman | Insomnia </strong>
-</p>
 
 
 

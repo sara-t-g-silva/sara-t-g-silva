@@ -6,12 +6,12 @@
  
  ### Welcome to my Github profile.
 
-**Desenvolvedor back-end | Java | Spring Boot | Javascript | Node.js | SQL | Git | GitHub**  
+**Desenvolvedor back-end | Python | Django | Java | Spring Boot | Javascript | Node.js | SQL | Git | GitHub**  
  
 </p>
 
 <p align="left">
-  💼 tools: <strong> Intellij | Eclipse | Visual Studio Code | Figma | Insomnia </strong>
+  💼 tools: <strong> Intellij | Eclipse | Visual Studio Code | Postman | Insomnia </strong>
 </p>
 
 
